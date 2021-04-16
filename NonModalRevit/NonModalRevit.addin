@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command NonModalRevit</Text>
+    <Description>Some description for NonModalRevit</Description>
+    <Assembly>NonModalRevit.dll</Assembly>
+    <FullClassName>NonModalRevit.Command</FullClassName>
+    <ClientId>868a6c04-5dd3-4431-96b8-28e6e80c7fcc</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application NonModalRevit</Name>
+    <Assembly>NonModalRevit.dll</Assembly>
+    <FullClassName>NonModalRevit.App</FullClassName>
+    <ClientId>884c169a-1db4-49d3-b4eb-a94c52ef2863</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
