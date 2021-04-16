@@ -1,2 +1,2 @@
 # NonModalRevit
-Template Addin Nom Model Revit 2020
+Template Addin Non Model Revit 2020
